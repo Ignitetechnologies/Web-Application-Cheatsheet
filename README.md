@@ -77,28 +77,28 @@ Table of Contents
 ## Wordpress
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
-|1. | [Hackademic-RTB1](https://www.hackingarticles.in/hack-the-hackademic-rtb1-vm-boot-to-root/)       |
-|2. | [Mr. Robot](https://www.hackingarticles.in/hack-mr-robot-vm-ctf-challenge/)             |
-|3. | [Stapler](https://www.hackingarticles.in/hack-stapler-vm-ctf-challenge/)               |
-|4. | [Minotaur](https://www.hackingarticles.in/hack-minotaur-vm-ctf-challenge/)              |
-|5. | [Freshly](https://www.hackingarticles.in/hack-freshly-vm-ctf-challenge/)               |
-|6. | [USV](https://www.hackingarticles.in/hack-usv-vm-ctf-challenge/)                   |
-|7. | [Quaoar](https://www.hackingarticles.in/hack-quaoar-vm-ctf-challenge/)                |
-|8. | [Lazysysadmin](https://www.hackingarticles.in/hack-lazysysadmin-vm-ctf-challenge/)          |
-|9. | [BTRSys:dv 2.1](https://www.hackingarticles.in/hack-btrsys-v2-1-vm-boot2root-challenge/)         |
-|10. | [Basic Penetration](https://www.hackingarticles.in/hack-the-basic-penetration-vm-boot2root-challenge/)     |
-|11. | [DerpNStink](https://www.hackingarticles.in/hack-the-derpnstink-vm-ctf-chAllenge/)            |
-|12. | [BSides Vancuver: 2018](https://www.hackingarticles.in/hack-the-bsides-vancouver2018-vm-boot2root-challenge/) |
-|13. | [Raven](https://www.hackingarticles.in/hack-the-raven-walkthrough-ctf-challenge/)                 |
-|14. | [HackinOS : 1](https://www.hackingarticles.in/hackinos1-vulnhub-lab-walkthrough/)          |
-|15. | [Web Developer : 1](https://www.hackingarticles.in/web-developer-1-vulnhub-lab-walkthrough/)    |
-|16. | [DC-2](https://www.hackingarticles.in/dc-2-walkthrough/)                 |
-|17. | [DC6](https://www.hackingarticles.in/dc6-lab-walkthrough/)                   |
-|18. | [symfonos : 1](https://www.hackingarticles.in/symfonos1-vulnhub-walkthrough/)          |
-|19. | [PumpkinFestival](https://www.hackingarticles.in/mission-pumpkin-v1-0-pumpkinfestival-vulnhub-walkthrough/)       |
-|20. | [SP:Jerome](https://www.hackingarticles.in/spjerome-vulnhub-walkthrough/)             |
-|21. | [dpwwn:2](https://www.hackingarticles.in/dpwwn2-vulnhub-walkthrough/)               |
-|22. | [GrimTheRipper:1](https://www.hackingarticles.in/grimtheripper-1-vulnhub-walkthrough/)       |
+|1. | [Hackademic-RTB1](https://www.hackingarticles.in/hack-the-hackademic-rtb1-vm-boot-to-root/)|Enumeration|
+|2. | [Mr. Robot](https://www.hackingarticles.in/hack-mr-robot-vm-ctf-challenge/)|Bruteforce|
+|3. | [Stapler](https://www.hackingarticles.in/hack-stapler-vm-ctf-challenge/)|Enumeration/Bruteforce|
+|4. | [Minotaur](https://www.hackingarticles.in/hack-minotaur-vm-ctf-challenge/)|[Wordpress SlideShow Gallery Authenticated File Upload](https://www.rapid7.com/db/modules/exploit/unix/webapp/wp_slideshowgallery_upload)|
+|5. | [Freshly](https://www.hackingarticles.in/hack-freshly-vm-ctf-challenge/)  |SQL Injection|
+|6. | [USV](https://www.hackingarticles.in/hack-usv-vm-ctf-challenge/)          |Enuemration|
+|7. | [Quaoar](https://www.hackingarticles.in/hack-quaoar-vm-ctf-challenge/)    |Enumeration|
+|8. | [Lazysysadmin](https://www.hackingarticles.in/hack-lazysysadmin-vm-ctf-challenge/) |[WordPress Admin Shell Upload](https://www.rapid7.com/db/modules/exploit/unix/webapp/wp_admin_shell_upload)| 
+|9. | [BTRSys:dv 2.1](https://www.hackingarticles.in/hack-btrsys-v2-1-vm-boot2root-challenge/)|Enumeration|
+|10. | [Basic Penetration](https://www.hackingarticles.in/hack-the-basic-penetration-vm-boot2root-challenge/) |[WordPress Admin Shell Upload](https://www.rapid7.com/db/modules/exploit/unix/webapp/wp_admin_shell_upload)| 
+|11. | [DerpNStink](https://www.hackingarticles.in/hack-the-derpnstink-vm-ctf-chAllenge/)|[Wordpress SlideShow Gallery Authenticated File Upload](https://www.rapid7.com/db/modules/exploit/unix/webapp/wp_slideshowgallery_upload)|
+|12. | [BSides Vancuver: 2018](https://www.hackingarticles.in/hack-the-bsides-vancouver2018-vm-boot2root-challenge/) |[WordPress Admin Shell Upload](https://www.rapid7.com/db/modules/exploit/unix/webapp/wp_admin_shell_upload)| 
+|13. | [Raven](https://www.hackingarticles.in/hack-the-raven-walkthrough-ctf-challenge/)|Enumeration|
+|14. | [HackinOS : 1](https://www.hackingarticles.in/hackinos1-vulnhub-lab-walkthrough/)|Enumeration|
+|15. | [Web Developer : 1](https://www.hackingarticles.in/web-developer-1-vulnhub-lab-walkthrough/)|[WordPress Photo Gallery Unrestricted File Upload](https://www.rapid7.com/db/modules/exploit/unix/webapp/wp_photo_gallery_unrestricted_file_upload)|
+|16. | [DC-2](https://www.hackingarticles.in/dc-2-walkthrough/)                 |Enumeration/Bruteforce|
+|17. | [DC6](https://www.hackingarticles.in/dc6-lab-walkthrough/)        |[Plainview Activity Monitor 20161228](https://www.exploit-db.com/exploits/45274)|
+|18. | [symfonos : 1](https://www.hackingarticles.in/symfonos1-vulnhub-walkthrough/)          |[WordPress Plugin Mail Masta 1.0 - Local File Inclusion](https://www.exploit-db.com/exploits/40290)|
+|19. | [PumpkinFestival](https://www.hackingarticles.in/mission-pumpkin-v1-0-pumpkinfestival-vulnhub-walkthrough/) |Enumeration|
+|20. | [SP:Jerome](https://www.hackingarticles.in/spjerome-vulnhub-walkthrough/)|[WordPress Crop-image Shell Upload](https://www.rapid7.com/db/modules/exploit/multi/http/wp_crop_rce)|
+|21. | [dpwwn:2](https://www.hackingarticles.in/dpwwn2-vulnhub-walkthrough/)  |[Wordpress Plugin Site Editor 1.1.1](https://www.exploit-db.com/exploits/44340)|
+|22. | [GrimTheRipper:1](https://www.hackingarticles.in/grimtheripper-1-vulnhub-walkthrough/)       |Bruteforce|
 |23. |[symfonos : 2](https://www.hackingarticles.in/symfonos1-vulnhub-walkthrough/)|[WordPress Plugin Mail Masta 1.0 - Local File Inclusion](https://www.exploit-db.com/exploits/40290)|
 
 
