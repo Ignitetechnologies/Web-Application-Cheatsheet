@@ -99,84 +99,77 @@ Table of Contents
 |20. | [SP:Jerome](https://www.hackingarticles.in/spjerome-vulnhub-walkthrough/)             |
 |21. | [dpwwn:2](https://www.hackingarticles.in/dpwwn2-vulnhub-walkthrough/)               |
 |22. | [GrimTheRipper:1](https://www.hackingarticles.in/grimtheripper-1-vulnhub-walkthrough/)       |
+|23. |[symfonos : 2](https://www.hackingarticles.in/symfonos1-vulnhub-walkthrough/)|[WordPress Plugin Mail Masta 1.0 - Local File Inclusion](https://www.exploit-db.com/exploits/40290)|
 
 
 <a name="builder"></a>
 ## Builder Engine
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
-|1. |[Sedna](https://www.hackingarticles.in/hack-sedna-vm-ctf-challenge/)|[builderengine_upload_exec](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/multi/http/builderengine_upload_exec.rb)
+|1. |[Sedna](https://www.hackingarticles.in/hack-sedna-vm-ctf-challenge/)|[builderengine_upload_exec](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/multi/http/builderengine_upload_exec.rb)|
 
 
 <a name="cmsms"></a>
 ## CMS Made Simple
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
-|1. |[West Wild: 2](https://www.hackingarticles.in/westwild-2-vulnhub-walkthrough/)|[CMSMS Showtime2 File Upload RCE](https://www.rapid7.com/db/modules/exploit/multi/http/cmsms_showtime2_rce) 
+|1. |[West Wild: 2](https://www.hackingarticles.in/westwild-2-vulnhub-walkthrough/)|[CMSMS Showtime2 File Upload RCE](https://www.rapid7.com/db/modules/exploit/multi/http/cmsms_showtime2_rce) |
 
 
 <a name="couch"></a>
 ## CouchDB
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
-|1. |[Moonraker:1](https://www.hackingarticles.in/moonraker1-vulnhub-walkthrough/)|
+|1. |[Moonraker:1](https://www.hackingarticles.in/moonraker1-vulnhub-walkthrough/)|[Node.js deserialization RCE](https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/)|
 
 
 <a name="cuppa"></a>
 ## Cuppa
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
-|1. |[W1R3S.inc](https://www.hackingarticles.in/hack-the-w1r3s-inc-vm-ctf-challenge/)|
-|2. |[BRAVERY](https://www.hackingarticles.in/digitalworld-local-bravery-vulnhub-walkthrough/)|
+|1. |[W1R3S.inc](https://www.hackingarticles.in/hack-the-w1r3s-inc-vm-ctf-challenge/)|['/alertConfigField.php' LFI/RFI](https://www.exploit-db.com/exploits/25971)|
+|2. |[BRAVERY](https://www.hackingarticles.in/digitalworld-local-bravery-vulnhub-walkthrough/)|['/alertConfigField.php' LFI/RFI](https://www.exploit-db.com/exploits/25971)|
 
 
 <a name="cute"></a>
 ## Cute News
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
-|1. |[Simple](https://www.hackingarticles.in/hack-simple-vm-ctf-challenge/)|
+|1. |[Simple](https://www.hackingarticles.in/hack-simple-vm-ctf-challenge/)|[CuteNews 2.0.3 Remote File Upload](https://www.exploit-db.com/raw/37474)|
 
 
 <a name="impress"></a>
 ## Impress
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
-|1. |[Breach 1.0](https://www.hackingarticles.in/hack-breach-1-0-vm-ctf-challenges/)|
-
-
-<a name="librenms"></a>
-## LibreNMS
-|No.| Machine Name             |Exploit/Vulnerability|
-|---|-----------------------|------------|
-|1. |[symfonos : 2](https://www.hackingarticles.in/symfonos1-vulnhub-walkthrough/)|
-
+|1. |[Breach 1.0](https://www.hackingarticles.in/hack-breach-1-0-vm-ctf-challenges/)|Enumeration|
 
 <a name="moodle"></a>
 ## Moodle
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
-|1. |[Golden Eye:1](https://www.hackingarticles.in/hack-the-golden-eye1-ctf-challenge/)|
+|1. |[Golden Eye:1](https://www.hackingarticles.in/hack-the-golden-eye1-ctf-challenge/)|[Moodle - Remote Command Execution](https://www.exploit-db.com/exploits/29324)|
 
 
 <a name="phpmailer"></a>
 ## Php Mailer
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
-|1. |[Raven : 2](https://www.hackingarticles.in/raven-2-vulnhub-walkthrough/)|
+|1. |[Raven : 2](https://www.hackingarticles.in/raven-2-vulnhub-walkthrough/)|[PHPMailer < 5.2.18 - Remote Code Execution](https://www.exploit-db.com/exploits/40974)|
 
 
 <a name="playsms"></a>
 ## Playsms
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
-|1. |[Dina](https://www.hackingarticles.in/hack-dina-vm-ctf-challenge/)|
+|1. |[Dina](https://www.hackingarticles.in/hack-dina-vm-ctf-challenge/)|[PlaySMS import.php Authenticated CSV File Upload Code Execution](https://www.rapid7.com/db/modules/exploit/multi/http/playsms_uploadcsv_exec)|
 
 
 <a name="rips"></a>
 ## Rips
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
-|1. |[Mercy](https://www.hackingarticles.in/mercy-vulnhub-walkthrough/)|
+|1. |[Mercy](https://www.hackingarticles.in/mercy-vulnhub-walkthrough/)|[RIPS 0.53 - Multiple Local File Inclusions](https://www.exploit-db.com/exploits/18660)|
 
 
 <a name="sphp"></a>
