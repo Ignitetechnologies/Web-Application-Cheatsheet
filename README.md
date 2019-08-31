@@ -57,18 +57,18 @@ Table of Contents
 
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
-|1. |[Hackademic-RTB2](https://www.hackingarticles.in/hack-the-hackademic-rtb2-boot2root/)|
-|2. |[Kevgir](https://www.hackingarticles.in/hack-kevgir-vm-ctf-challenge/)|
-|3. |[DC-3](https://www.hackingarticles.in/dc-3-walkthrough/)|
-|4. |[Born2Root: 2](https://www.hackingarticles.in/born2root-2-vulnhub-walkthrough/)|
+|1. |[Hackademic-RTB2](https://www.hackingarticles.in/hack-the-hackademic-rtb2-boot2root/)|SQL Injection|
+|2. |[Kevgir](https://www.hackingarticles.in/hack-kevgir-vm-ctf-challenge/)|[Joomla! 1.5.x - 'Token'](https://www.exploit-db.com/exploits/6234)
+|3. |[DC-3](https://www.hackingarticles.in/dc-3-walkthrough/)|[Joomla! 3.7.0 - 'com_fields' SQL Injection](https://www.exploit-db.com/exploits/42033)|
+|4. |[Born2Root: 2](https://www.hackingarticles.in/born2root-2-vulnhub-walkthrough/)|Enumeration|
 
 <a name="webmin"></a>
 ## WebMin
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
-|1. |[pWnOS -1.0](https://www.hackingarticles.in/hack-the-pwnos-1-0-boot-to-root/)|
-|2. |[VulnOS: 1](https://www.hackingarticles.in/hack-the-vulnos-1-ctf-challenge/)|
-|3. |[Nezuko:1](https://www.hackingarticles.in/nezuko-1-vulnhub-walkthrough/)|
+|1. |[pWnOS -1.0](https://www.hackingarticles.in/hack-the-pwnos-1-0-boot-to-root/)|[Webmin File Disclosure](https://www.rapid7.com/db/modules/auxiliary/admin/webmin/file_disclosure) 
+|2. |[VulnOS: 1](https://www.hackingarticles.in/hack-the-vulnos-1-ctf-challenge/)| [DistCC Daemon Command Execution](https://www.rapid7.com/db/modules/exploit/unix/misc/distcc_exec)
+|3. |[Nezuko:1](https://www.hackingarticles.in/nezuko-1-vulnhub-walkthrough/)|[Webmin 1.920 - Remote Code Execution](https://www.exploit-db.com/exploits/47293) 
 
 
 <a name="wordpress"></a>
@@ -103,14 +103,14 @@ Table of Contents
 ## Builder Engine
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
-|1. |[Sedna](https://www.hackingarticles.in/hack-sedna-vm-ctf-challenge/)|
+|1. |[Sedna](https://www.hackingarticles.in/hack-sedna-vm-ctf-challenge/)|[builderengine_upload_exec](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/multi/http/builderengine_upload_exec.rb)
 
 
 <a name="cmsms"></a>
 ## CMS Made Simple
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
-|1. |[West Wild: 2](https://www.hackingarticles.in/westwild-2-vulnhub-walkthrough/)|
+|1. |[West Wild: 2](https://www.hackingarticles.in/westwild-2-vulnhub-walkthrough/)|[CMSMS Showtime2 File Upload RCE](https://www.rapid7.com/db/modules/exploit/multi/http/cmsms_showtime2_rce) 
 
 
 <a name="couch"></a>
