@@ -37,7 +37,7 @@ Table of Contents
 <a name="drupal"></a>
 ## Drupal
 
-|No.| Machine Name             | Exploit|
+|No.| Machine Name             | Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[Droopy](https://www.hackingarticles.in/hack-droopy-vm-ctf-challenge/)|[Drupalgeddon](https://www.exploit-db.com/exploits/34992)|
 |2. |[Billu Box 2](https://www.hackingarticles.in/hack-billu-b0x-vm-boot2root-challenge/)|[Drupalgeddon2](https://www.exploit-db.com/exploits/44449) |
@@ -48,15 +48,15 @@ Table of Contents
 
 <a name="jenkins"></a>
 ## Jenkins
-|No.| Machine Name             |
-|---|-----------------------|
-|1. |[Jarbas : 1](https://www.hackingarticles.in/hack-the-jarbas-1-ctf-challenge/)|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
+|1. |[Jarbas : 1](https://www.hackingarticles.in/hack-the-jarbas-1-ctf-challenge/)|[Jenkins Script Console](https://www.rapid7.com/db/modules/exploit/multi/http/jenkins_script_console)| 
 
 <a name="joomla"></a>
 ## Joomla
 
-|No.| Machine Name             |
-|---|-----------------------|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
 |1. |[Hackademic-RTB2](https://www.hackingarticles.in/hack-the-hackademic-rtb2-boot2root/)|
 |2. |[Kevgir](https://www.hackingarticles.in/hack-kevgir-vm-ctf-challenge/)|
 |3. |[DC-3](https://www.hackingarticles.in/dc-3-walkthrough/)|
@@ -64,8 +64,8 @@ Table of Contents
 
 <a name="webmin"></a>
 ## WebMin
-|No.| Machine Name             |
-|---|-----------------------|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
 |1. |[pWnOS -1.0](https://www.hackingarticles.in/hack-the-pwnos-1-0-boot-to-root/)|
 |2. |[VulnOS: 1](https://www.hackingarticles.in/hack-the-vulnos-1-ctf-challenge/)|
 |3. |[Nezuko:1](https://www.hackingarticles.in/nezuko-1-vulnhub-walkthrough/)|
@@ -73,8 +73,8 @@ Table of Contents
 
 <a name="wordpress"></a>
 ## Wordpress
-|No.| Machine Name             |
-|---|-----------------------|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
 |1. | [Hackademic-RTB1](https://www.hackingarticles.in/hack-the-hackademic-rtb1-vm-boot-to-root/)       |
 |2. | [Mr. Robot](https://www.hackingarticles.in/hack-mr-robot-vm-ctf-challenge/)             |
 |3. | [Stapler](https://www.hackingarticles.in/hack-stapler-vm-ctf-challenge/)               |
@@ -101,124 +101,124 @@ Table of Contents
 
 <a name="builder"></a>
 ## Builder Engine
-|No.| Machine Name             |
-|---|-----------------------|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
 |1. |[Sedna](https://www.hackingarticles.in/hack-sedna-vm-ctf-challenge/)|
 
 
 <a name="cmsms"></a>
 ## CMS Made Simple
-|No.| Machine Name             |
-|---|-----------------------|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
 |1. |[West Wild: 2](https://www.hackingarticles.in/westwild-2-vulnhub-walkthrough/)|
 
 
 <a name="couch"></a>
 ## CouchDB
-|No.| Machine Name             |
-|---|-----------------------|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
 |1. |[Moonraker:1](https://www.hackingarticles.in/moonraker1-vulnhub-walkthrough/)|
 
 
 <a name="cuppa"></a>
 ## Cuppa
-|No.| Machine Name             |
-|---|-----------------------|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
 |1. |[W1R3S.inc](https://www.hackingarticles.in/hack-the-w1r3s-inc-vm-ctf-challenge/)|
 |2. |[BRAVERY](https://www.hackingarticles.in/digitalworld-local-bravery-vulnhub-walkthrough/)|
 
 
 <a name="cute"></a>
 ## Cute News
-|No.| Machine Name             |
-|---|-----------------------|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
 |1. |[Simple](https://www.hackingarticles.in/hack-simple-vm-ctf-challenge/)|
 
 
 <a name="impress"></a>
 ## Impress
-|No.| Machine Name             |
-|---|-----------------------|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
 |1. |[Breach 1.0](https://www.hackingarticles.in/hack-breach-1-0-vm-ctf-challenges/)|
 
 
 <a name="librenms"></a>
 ## LibreNMS
-|No.| Machine Name             |
-|---|-----------------------|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
 |1. |[symfonos : 2](https://www.hackingarticles.in/symfonos1-vulnhub-walkthrough/)|
 
 
 <a name="moodle"></a>
 ## Moodle
-|No.| Machine Name             |
-|---|-----------------------|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
 |1. |[Golden Eye:1](https://www.hackingarticles.in/hack-the-golden-eye1-ctf-challenge/)|
 
 
 <a name="phpmailer"></a>
 ## Php Mailer
-|No.| Machine Name             |
-|---|-----------------------|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
 |1. |[Raven : 2](https://www.hackingarticles.in/raven-2-vulnhub-walkthrough/)|
 
 
 <a name="playsms"></a>
 ## Playsms
-|No.| Machine Name             |
-|---|-----------------------|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
 |1. |[Dina](https://www.hackingarticles.in/hack-dina-vm-ctf-challenge/)|
 
 
 <a name="rips"></a>
 ## Rips
-|No.| Machine Name             |
-|---|-----------------------|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
 |1. |[Mercy](https://www.hackingarticles.in/mercy-vulnhub-walkthrough/)|
 
 
 <a name="sphp"></a>
-## SPHP Blog
-|No.| Machine Name             |
-|---|-----------------------|
-|1. |[pWnOS -2.0](https://www.hackingarticles.in/hack-the-pwnos-2-0-boot-2-root-challenge/)|
+## Simple PHP Blog
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
+|1. |[pWnOS -2.0](https://www.hackingarticles.in/hack-the-pwnos-2-0-boot-2-root-challenge/)|[Simple PHP Blog Remote Command Execution](https://www.rapid7.com/db/modules/exploit/unix/webapp/sphpblog_file_upload) 
 
 
 <a name="squirrel"></a>
 ## Squirrel Mail
-|No.| Machine Name             |
-|---|-----------------------|
-|1. |[DE-ICE:S1.140](https://www.hackingarticles.in/hack-the-de-ice-s1-140-boot-to-root/)|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
+|1. |[DE-ICE:S1.140](https://www.hackingarticles.in/hack-the-de-ice-s1-140-boot-to-root/)|Enumeration|
 
 <a name="phptext"></a>
-## PHPText
-|No.| Machine Name             |
-|---|-----------------------|
-|1. |[Kioprtix: 5](https://www.hackingarticles.in/hack-the-kioptrix-5-ctf-challenge/)|
+## PHPTax
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
+|1. |[Kioprtix: 5](https://www.hackingarticles.in/hack-the-kioptrix-5-ctf-challenge/)|[PhpTax Remote Code Injection](https://www.rapid7.com/db/modules/exploit/multi/http/phptax_exec)
 
 <a name="wolf"></a>
 ## Wolf
-|No.| Machine Name             |
-|---|-----------------------|
-|1. |[SickOS 1.1](https://www.hackingarticles.in/hack-sickos-1-1-vm-ctf-challenge/)|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
+|1. |[SickOS 1.1](https://www.hackingarticles.in/hack-sickos-1-1-vm-ctf-challenge/)|[Default Credential](https://en.wikipedia.org/wiki/Default_Credential_vulnerability)
 
 
 <a name="zen"></a>
 ## Zenphoto
-|No.| Machine Name             |
-|---|-----------------------|
-|1. |[Orcus](https://www.hackingarticles.in/hack-orcus-vm-ctf-challenge/)|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
+|1. |[Orcus](https://www.hackingarticles.in/hack-orcus-vm-ctf-challenge/)|Enumeration|
 
 
 <a name="redis"></a>
 ## Redis
-|No.| Machine Name             |
-|---|-----------------------|
-|1. |[Gemini inc:2](https://www.hackingarticles.in/hack-the-gemini-inc2-ctf-challenge/)|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
+|1. |[Gemini inc:2](https://www.hackingarticles.in/hack-the-gemini-inc2-ctf-challenge/)|Remote Code Execution(RCE)|
 
 
 <a name="nano"></a>
 ## Nano CMS
-|No.| Machine Name             |
-|---|-----------------------|
-|1. |[LAMPSecurity: CTF 5](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-5-ctf-challenge/)|
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
+|1. |[LAMPSecurity: CTF 5](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-5-ctf-challenge/)|Local File Inclusion(LFI)|
