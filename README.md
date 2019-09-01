@@ -216,4 +216,4 @@ Table of Contents
 ## Nano CMS
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
-|1. |[LAMPSecurity: CTF 5](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-5-ctf-challenge/)|Local File Inclusion(LFI)|
+|1. |[LAMPSecurity: CTF 5](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-5-ctf-challenge/)|[NanoCMS '/data/pagesdata.txt' Password Hash Information Disclosure](https://www.securityfocus.com/bid/34508/exploit)|
