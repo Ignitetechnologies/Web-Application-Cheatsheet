@@ -81,7 +81,7 @@ Table of Contents
 |2. | [Mr. Robot](https://www.hackingarticles.in/hack-mr-robot-vm-ctf-challenge/)|Bruteforce|
 |3. | [Stapler](https://www.hackingarticles.in/hack-stapler-vm-ctf-challenge/)|Enumeration/Bruteforce|
 |4. | [Minotaur](https://www.hackingarticles.in/hack-minotaur-vm-ctf-challenge/)|[Wordpress SlideShow Gallery Authenticated File Upload](https://www.rapid7.com/db/modules/exploit/unix/webapp/wp_slideshowgallery_upload)|
-|5. | [Freshly](https://www.hackingarticles.in/hack-freshly-vm-ctf-challenge/)  |SQL Injection|
+|5. | [Freshly](https://www.hackingarticles.in/hack-freshly-vm-ctf-challenge/)  |Manual|
 |6. | [USV](https://www.hackingarticles.in/hack-usv-vm-ctf-challenge/)          |Enuemration|
 |7. | [Quaoar](https://www.hackingarticles.in/hack-quaoar-vm-ctf-challenge/)    |Enumeration|
 |8. | [Lazysysadmin](https://www.hackingarticles.in/hack-lazysysadmin-vm-ctf-challenge/) |[WordPress Admin Shell Upload](https://www.rapid7.com/db/modules/exploit/unix/webapp/wp_admin_shell_upload)| 
