@@ -47,6 +47,7 @@ Table of Contents
 |4. |[Typhoon : 1.02](https://www.hackingarticles.in/typhoon-1-02-vulnhub-walkthrough/)|[Drupalgeddon2](https://www.exploit-db.com/exploits/44449) |
 |5. |[DC-1](https://www.hackingarticles.in/dc-1-vulnhub-walkthrough/)|[Drupalgeddon2](https://www.exploit-db.com/exploits/44449)|
 |6. |[RootThis : 1](https://www.hackingarticles.in/vulnhub-rootthis-1-walkthrough/)|Manual|
+|7. |[DC:7](https://www.hackingarticles.in/dc7-vulnhub-walkthrough/)|Manual|
 
 <a name="jenkins"></a>
 ## Jenkins
