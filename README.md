@@ -101,7 +101,7 @@ Table of Contents
 |21. | [dpwwn:2](https://www.hackingarticles.in/dpwwn2-vulnhub-walkthrough/)  |[Wordpress Plugin Site Editor 1.1.1](https://www.exploit-db.com/exploits/44340)|
 |22. | [GrimTheRipper:1](https://www.hackingarticles.in/grimtheripper-1-vulnhub-walkthrough/)       |Bruteforce|
 |23. |[symfonos : 2](https://www.hackingarticles.in/symfonos1-vulnhub-walkthrough/)|[WordPress Plugin Mail Masta 1.0 - Local File Inclusion](https://www.exploit-db.com/exploits/40290)|
-
+|24. |[Prime: 1](https://www.hackingarticles.in/prime-1-vulnhub-walkthrough/)| Enumeration|
 
 <a name="builder"></a>
 ## Builder Engine
