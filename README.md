@@ -37,7 +37,7 @@ Table of Contents
 
 
 <a name="drupal"></a>
-## Drupal
+##  Drupal [⤴](#table-of-contents)
 
 |No.| Machine Name             | Exploit/Vulnerability|
 |---|-----------------------|------------|
@@ -50,13 +50,13 @@ Table of Contents
 |7. |[DC:7](https://www.hackingarticles.in/dc7-vulnhub-walkthrough/)|Manual|
 
 <a name="jenkins"></a>
-## Jenkins
+##  Jenkins [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[Jarbas : 1](https://www.hackingarticles.in/hack-the-jarbas-1-ctf-challenge/)|[Jenkins Script Console](https://www.rapid7.com/db/modules/exploit/multi/http/jenkins_script_console)| 
 
 <a name="joomla"></a>
-## Joomla
+##  Joomla [⤴](#table-of-contents)
 
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
@@ -66,7 +66,7 @@ Table of Contents
 |4. |[Born2Root: 2](https://www.hackingarticles.in/born2root-2-vulnhub-walkthrough/)|Enumeration|
 
 <a name="webmin"></a>
-## WebMin
+##  WebMin [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[pWnOS -1.0](https://www.hackingarticles.in/hack-the-pwnos-1-0-boot-to-root/)|[Webmin File Disclosure](https://www.rapid7.com/db/modules/auxiliary/admin/webmin/file_disclosure) 
@@ -75,7 +75,7 @@ Table of Contents
 
 
 <a name="wordpress"></a>
-## Wordpress
+##  Wordpress [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. | [Hackademic-RTB1](https://www.hackingarticles.in/hack-the-hackademic-rtb1-vm-boot-to-root/)|Enumeration|
@@ -104,28 +104,28 @@ Table of Contents
 |24. |[Prime: 1](https://www.hackingarticles.in/prime-1-vulnhub-walkthrough/)| Enumeration|
 
 <a name="builder"></a>
-## Builder Engine
+##  Builder Engine [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[Sedna](https://www.hackingarticles.in/hack-sedna-vm-ctf-challenge/)|[builderengine_upload_exec](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/multi/http/builderengine_upload_exec.rb)|
 
 
 <a name="cmsms"></a>
-## CMS Made Simple
+##  CMS Made Simple [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[West Wild: 2](https://www.hackingarticles.in/westwild-2-vulnhub-walkthrough/)|[CMSMS Showtime2 File Upload RCE](https://www.rapid7.com/db/modules/exploit/multi/http/cmsms_showtime2_rce) |
 
 
 <a name="couch"></a>
-## CouchDB
+##  CouchDB [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[Moonraker:1](https://www.hackingarticles.in/moonraker1-vulnhub-walkthrough/)|[Node.js deserialization RCE](https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/)|
 
 
 <a name="cuppa"></a>
-## Cuppa
+##  Cuppa [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[W1R3S.inc](https://www.hackingarticles.in/hack-the-w1r3s-inc-vm-ctf-challenge/)|['/alertConfigField.php' LFI/RFI](https://www.exploit-db.com/exploits/25971)|
@@ -133,88 +133,88 @@ Table of Contents
 
 
 <a name="cute"></a>
-## Cute News
+##  Cute News [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[Simple](https://www.hackingarticles.in/hack-simple-vm-ctf-challenge/)|[CuteNews 2.0.3 Remote File Upload](https://www.exploit-db.com/raw/37474)|
 
 
 <a name="impress"></a>
-## Impress
+##  Impress [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[Breach 1.0](https://www.hackingarticles.in/hack-breach-1-0-vm-ctf-challenges/)|Enumeration|
 
 <a name="moodle"></a>
-## Moodle
+##  Moodle [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[Golden Eye:1](https://www.hackingarticles.in/hack-the-golden-eye1-ctf-challenge/)|[Moodle - Remote Command Execution](https://www.exploit-db.com/exploits/29324)|
 
 
 <a name="phpmailer"></a>
-## Php Mailer
+##  PHP Mailer [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[Raven : 2](https://www.hackingarticles.in/raven-2-vulnhub-walkthrough/)|[PHPMailer < 5.2.18 - Remote Code Execution](https://www.exploit-db.com/exploits/40974)|
 
 
 <a name="playsms"></a>
-## Playsms
+##  Playsms [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[Dina](https://www.hackingarticles.in/hack-dina-vm-ctf-challenge/)|[PlaySMS import.php Authenticated CSV File Upload Code Execution](https://www.rapid7.com/db/modules/exploit/multi/http/playsms_uploadcsv_exec)|
 
 
 <a name="rips"></a>
-## Rips
+##  Rips [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[Mercy](https://www.hackingarticles.in/mercy-vulnhub-walkthrough/)|[RIPS 0.53 - Multiple Local File Inclusions](https://www.exploit-db.com/exploits/18660)|
 
 
 <a name="sphp"></a>
-## Simple PHP Blog
+##  Simple PHP Blog [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[pWnOS -2.0](https://www.hackingarticles.in/hack-the-pwnos-2-0-boot-2-root-challenge/)|[Simple PHP Blog Remote Command Execution](https://www.rapid7.com/db/modules/exploit/unix/webapp/sphpblog_file_upload) 
 
 
 <a name="squirrel"></a>
-## Squirrel Mail
+##  Squirrel Mail [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[DE-ICE:S1.140](https://www.hackingarticles.in/hack-the-de-ice-s1-140-boot-to-root/)|Enumeration|
 
 <a name="phptext"></a>
-## PHPTax
+##  PHPTax [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[Kioprtix: 5](https://www.hackingarticles.in/hack-the-kioptrix-5-ctf-challenge/)|[PhpTax Remote Code Injection](https://www.rapid7.com/db/modules/exploit/multi/http/phptax_exec)
 
 <a name="wolf"></a>
-## Wolf
+##  Wolf [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[SickOS 1.1](https://www.hackingarticles.in/hack-sickos-1-1-vm-ctf-challenge/)|[Default Credential](https://en.wikipedia.org/wiki/Default_Credential_vulnerability)
 
 
 <a name="zen"></a>
-## Zenphoto
+##  Zenphoto [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[Orcus](https://www.hackingarticles.in/hack-orcus-vm-ctf-challenge/)|Enumeration|
 
 
 <a name="redis"></a>
-## Redis
+##  Redis [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[Gemini inc:2](https://www.hackingarticles.in/hack-the-gemini-inc2-ctf-challenge/)|Remote Code Execution(RCE)|
 
 
 <a name="nano"></a>
-## Nano CMS
+##  Nano CMS [⤴](#table-of-contents)
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[LAMPSecurity: CTF 5](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-5-ctf-challenge/)|[NanoCMS '/data/pagesdata.txt' Password Hash Information Disclosure](https://www.securityfocus.com/bid/34508/exploit)|
