@@ -48,6 +48,7 @@ Table of Contents
 |5. |[DC-1](https://www.hackingarticles.in/dc-1-vulnhub-walkthrough/)|[Drupalgeddon2](https://www.exploit-db.com/exploits/44449)|
 |6. |[RootThis : 1](https://www.hackingarticles.in/vulnhub-rootthis-1-walkthrough/)|Manual|
 |7. |[DC:7](https://www.hackingarticles.in/dc7-vulnhub-walkthrough/)|Manual|
+|8. |[DC:8](https://www.hackingarticles.in/dc8-vulnhub-walkthrough/)
 
 <a name="jenkins"></a>
 ##  Jenkins [⤴](#table-of-contents)
