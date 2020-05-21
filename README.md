@@ -34,6 +34,8 @@ Table of Contents
 * [Zenphoto](#zen)
 * [Redis](#redis)
 * [Nano CMS](#nano)
+* [OpenEclass E-learning](#open)
+
 
 
 <a name="drupal"></a>
@@ -220,3 +222,10 @@ Table of Contents
 |No.| Machine Name             |Exploit/Vulnerability|
 |---|-----------------------|------------|
 |1. |[LAMPSecurity: CTF 5](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-5-ctf-challenge/)|[NanoCMS '/data/pagesdata.txt' Password Hash Information Disclosure](https://www.securityfocus.com/bid/34508/exploit)|
+
+<a name="open"></a>
+##  GUnet OpenEclass E-learning platform[⤴](#table-of-contents)
+|No.| Machine Name             |Exploit/Vulnerability|
+|---|-----------------------|------------|
+|1. |[VulnUni 1.0.1](https://www.hackingarticles.in/vulnuni-1-0-1-vulnhub-walkthrough/)|[GUnet OpenEclass E-learning platform 1.7.3](https://www.exploit-db.com/exploits/48106)|
+
