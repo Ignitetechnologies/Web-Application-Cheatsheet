@@ -1,6 +1,6 @@
 # Web Application Cheatsheet (Vulnhub)
 
-This cheatsheet is aimed at the CTF Players and Beginners to help them understand Web Application Vulnerablity with examples. There are multiple ways to perform the same tasks. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://www.linkedin.com/in/pavan2318).
+This cheatsheet is aimed at the CTF Players and Beginners to help them understand Web Application Vulnerablity with examples. There are multiple ways to perform the same tasks. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://twitter.com/pavan2318).
 
 [1.1]: http://i.imgur.com/tXSoThF.png
 [1]: http://www.twitter.com/rajchandel
@@ -106,6 +106,7 @@ Table of Contents
 |23. |[symfonos : 2](https://www.hackingarticles.in/symfonos1-vulnhub-walkthrough/)|[WordPress Plugin Mail Masta 1.0 - Local File Inclusion](https://www.exploit-db.com/exploits/40290)|
 |24. |[Prime: 1](https://www.hackingarticles.in/prime-1-vulnhub-walkthrough/)| Enumeration|
 |25. |[HA: Wordy](https://www.hackingarticles.in/ha-wordy-vulnhub-walkthrough/)| Multiple Vulnerablities|
+|26. |[Loly: 1](https://www.hackingarticles.in/loly-1-vulnhub-walkthrough/)|[WordPress Plugin AdRotate 3.6.5 - SQL Injection](https://www.exploit-db.com/exploits/17888)|
 
 <a name="builder"></a>
 ##  Builder Engine [⤴](#table-of-contents)
