@@ -3,7 +3,7 @@
 This cheatsheet is aimed at the CTF Players and Beginners to help them understand Web Application Vulnerablity with examples. There are multiple ways to perform the same tasks. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://twitter.com/pavan2318).
 
 [1.1]: http://i.imgur.com/tXSoThF.png
-[1]: http://www.twitter.com/rajchandel
+[1]: http://www.twitter.com/hackinarticles
 # Follow us on [![alt text][1.1]][1]
 
 <img src="https://i.ibb.co/xfPQjzq/vulnhub-web-app.jpg" alt="vulnhub-web-app" border="0">
