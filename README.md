@@ -1,6 +1,6 @@
 # Web Application Cheatsheet (Vulnhub)
 
-This cheatsheet is aimed at the CTF Players and Beginners to help them understand Web Application Vulnerablity with examples. There are multiple ways to perform the same tasks. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
+This cheatsheet is intended for CTF participants and beginners to help them understand web application vulnerability through examples. There are multiple ways to perform the same task. We have performed and compiled this list based on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
 
 [1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
 [1.6]: https://www.linkedin.com/company/hackingarticles/
