@@ -1,16 +1,19 @@
-# Web Application Cheatsheet (Vulnhub)
+🌐 Web Application Cheatsheet (Vulnhub)
 
-This cheatsheet is intended for CTF participants and beginners to help them understand web application vulnerability through examples. There are multiple ways to perform the same task. We have performed and compiled this list based on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
+A practical Web Application Penetration Testing cheat sheet designed for CTF players, penetration testers, bug bounty hunters, and cybersecurity learners to understand common web vulnerabilities and exploitation techniques.
 
-[1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
-[1.6]: https://www.linkedin.com/company/hackingarticles/
-[1.3]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/discord.png
-[1.4]: https://discord.com/invite/kyKvXwK4Bk
-[1.1]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/twitter.png
-[1]: http://www.twitter.com/hackinarticles
-# Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
+## 🌐 Connect With Us
 
-<img src="https://i.ibb.co/xfPQjzq/vulnhub-web-app.jpg" alt="vulnhub-web-app" border="0">
+🔵 **[Telegram – Join Channel](https://t.me/hackinarticles)**  
+⚫ **[Twitter/X – Follow Us](https://x.com/hackinarticles)**  
+🟣 **[Discord – Join Server](https://discord.com/invite/kyKvXwK4Bk)**  
+💼 **[LinkedIn – Follow HackingArticles](https://www.linkedin.com/company/hackingarticles)**  
+
+## 🎓 Training Program
+
+🚀 **[Join Our Cybersecurity Training Program](https://forms.gle/bowpX9TGEs41GDG99)**  
+
+Hands-on training in **Penetration Testing, Red Teaming, and Cybersecurity.**
 
 Table of Contents
 =================
